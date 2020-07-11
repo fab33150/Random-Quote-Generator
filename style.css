@@ -1,0 +1,15 @@
+body {
+  background-color: #ffe5b4;
+}
+
+.box {
+  background-color: #ffffff;
+  position: relative;
+}
+
+.fa-quote-left {
+  position: absolute;
+  opacity: .6;
+    top: 10px;
+    left: 10px;
+}
